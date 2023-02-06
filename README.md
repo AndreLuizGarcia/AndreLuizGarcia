@@ -31,7 +31,7 @@ KISS - Keep it simple
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [@Bees | Ab-Inbev](https://www.bees.com/)  
+- 🔭 I’m currently working on [@TheoremOne](https://www.theoremone.co/)  
   
 
 - 🌱 I work with front-end techs  
